@@ -1,6 +1,6 @@
 ## Hi I'm Tushar Mehta <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi">
 
-<img align="right" alt="GIF" src="https://github.com/tsrmehta/tsrmehta/blob/main/coding-typing.gif?raw=true"/>
+<img align="right" alt="GIF" src="https://github.com/tsrmehta/tsrmehta/blob/main/github.gif?raw=true"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="tsrmehta" /> </p>
 
