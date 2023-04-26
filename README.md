@@ -1,6 +1,6 @@
 <h3 align="center">Hi I am Tushar Mehta</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tm2582001&label=Profile%20views&color=0e75b6&style=flat" alt="tm2582001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="tsrmehta" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
