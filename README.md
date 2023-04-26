@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="tsrmehta" /> </p>
 
+
+## I watch Anime, Play games and more importantly, I like to write code!!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/tm2582001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" alt="tm2582001" height="30" width="40" /></a>
