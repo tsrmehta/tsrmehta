@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/tsrmehta/tsrmehta/blob/main/dazai-bsd.gif?raw=true"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="tsrmehta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="tsrmehta" margin="10px" /> </p>
 
 
 ## I watch Anime, Play games and more importantly, I like to write code!!
